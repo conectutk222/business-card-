@@ -46,7 +46,7 @@ class Main_screen extends StatelessWidget {
                 height: 70,
               ),
               mediatile(
-                url: "tel:+917765837336",
+                url: "tel:+917765837366",
                 title: "Call",
                 mediaicon: UniconsLine.phone,
                 colourdata: Color(0xff1A73E8),
